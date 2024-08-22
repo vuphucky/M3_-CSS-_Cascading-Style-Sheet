@@ -1,0 +1,13 @@
+h1{
+    color: orange;
+    font-size: 300%;
+}
+p{
+    color: red;
+    font-family: "Times New Roman";
+}
+ #element2 {
+    color: rgba(4,4,4,0.4);
+     font-family: "Times New Roman";
+     font-size: 50px;
+}
